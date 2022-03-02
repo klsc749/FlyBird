@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6b82716ddf4f02f4eafea9848666d4ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flyClip: {fileID: 8300000, guid: 153f89d29288f464c9ceb0b5358bdbb5, type: 3}
+  - pointClip: {fileID: 8300000, guid: c164e04ee14f93b43ae23a8c03c19faf, type: 3}
+  - dieClip: {fileID: 8300000, guid: b590c9eb4e2082a44af09da2f1cd47d6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
